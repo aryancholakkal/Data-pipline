@@ -87,3 +87,8 @@ The tool includes retry mechanisms for data loading and proper exception handlin
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Output
+![image](https://github.com/user-attachments/assets/846ccb52-cee7-4a30-8994-9ff2dddf2ab3)
+
+
